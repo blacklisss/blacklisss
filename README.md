@@ -5,6 +5,7 @@
 - Go
 - PHP
 - JavaScript
+- Python
 - MySQL
 - PostgreSQL
 
